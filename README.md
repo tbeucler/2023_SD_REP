@@ -4,7 +4,7 @@ Welcome to the GitHub repository for the analysis of Pediatric Respiratory Emerg
 
 ## Data
 
-- **Drop_Respiratory_Visit.csv:** This file contains the records of respiratory visit numbers per year per zipcode.
+- **RV_Zip_Count.csv:** This file contains the records of respiratory visit numbers per year per zipcode.
 
 - **Spatial_Join_SVI.dbf:** This database contains the results of the spatial join operation, which associates district-level CDC social vulnerability indices to zipcodes.
 
