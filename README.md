@@ -8,6 +8,8 @@ Welcome to the GitHub repository for the analysis of Pediatric Respiratory Emerg
 
 - **Spatial_Join_SVI.dbf:** This database contains the results of the spatial join operation, which associates district-level CDC social vulnerability indices to zipcodes.
 
+- **.ttf** Font files for Times New Roman fonts, used for plot aesthetics. 
+
 ## Code
 
 - **Figures_Tables.ipynb:** This Jupyter Notebook allows you to reproduce all the figures, tables, and statistics reported in our study.
